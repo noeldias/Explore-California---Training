@@ -1,3 +1,10 @@
+#Examples include:
+#compiled code
+#packages and compressed files
+#logs and database
+#os generated files
+#user uploaded assets (images, PDFs, videos)
+#see https://github.com/github/gitignore
 temp*.txt
 temp/*
 .zip
